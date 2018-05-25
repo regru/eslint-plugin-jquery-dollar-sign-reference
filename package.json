@@ -1,0 +1,26 @@
+{
+  "name": "jquery-dollar-sign-reference",
+  "version": "1.0.0",
+  "description": "check if all jQuery references are prefixed with $ sign",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "plugin"
+  ],
+  "author": "Makarychev Andrey <shiftmailbox@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/jquery-dollar-sign-reference.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regru/jquery-dollar-sign-reference/issues"
+  },
+  "homepage": "https://github.com/regru/jquery-dollar-sign-reference#readme"
+}
