@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-jquery-dollar-sign-reference",
+  "name": "@regru/eslint-plugin-jquery-dollar-sign-reference",
   "version": "1.0.0",
   "description": "check if all jQuery references are prefixed with $ sign",
   "main": "index.js",
